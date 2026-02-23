@@ -134,8 +134,6 @@ Output: ✅ Not Spam (green)
 
 ## Author
 
-Created for spam detection project
+Jyoti
 
-## License
 
-Open source - feel free to use and modify
